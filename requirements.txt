@@ -1,0 +1,5 @@
+numpy
+pandas
+-e .
+#to trigger setup.py
+# pip install -e . #This command installs your package in development mode, which allows you to make changes to the code and see the effects without reinstalling the package.
